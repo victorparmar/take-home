@@ -1,0 +1,21 @@
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  color: #acb3c2;
+}
+
+.grid-footer {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 1rem;
+}
+
+.grid-footer a {
+  color: #727e96;
+}
+
+.grid-footer .logo {
+  font-size: 1rem;
+}
