@@ -25,7 +25,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -e mysurance",
     "flow": "flow",
     "e2e": "mocha --opts e2e-integration-tests/mocha.opts e2e-integration-tests/"
   },
