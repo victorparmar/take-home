@@ -18,7 +18,7 @@ The​​ user​​ clicks​​ on​​ a​​ listed​​ insurance​​ 
 
 ## Development
 
-The application is hosted on github and can be accessed via [https://victorparmar.github.io/take-home/mysurance/](https://victorparmar.github.io/take-home/mysurance/)
+The application is hosted on github and can be accessed via [https://wheresvic.github.io/take-home/mysurance/](https://wheresvic.github.io/take-home/mysurance/)
 
 Requirements:
 

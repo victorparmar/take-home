@@ -18,7 +18,7 @@ const Footer = (props: Props) => {
         We do not use any cookies nor store any personal information. All data is stored in browser localStorage (if enabled).
         </div>
         <div>
-          Licensed under the <a href="https://github.com/victorparmar/mysurance/blob/master/LICENSE">MIT License</a>.
+          Licensed under the <a href="https://github.com/wheresvic/mysurance/blob/master/LICENSE">MIT License</a>.
         </div>
       </section>
     </footer>
