@@ -31,9 +31,9 @@
   },
   "devDependencies": {
     "chai": "4.2.0",
-    "geckodriver": "1.9.0",
+    "geckodriver": "1.12.2",
     "gh-pages": "1.0.0",
-    "mocha": "3.5.3",
+    "mocha": "5.2.0",
     "nock": "10.0.1",
     "redux-mock-store": "1.5.3",
     "selenium-webdriver": "3.5.0"
