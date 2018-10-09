@@ -29,12 +29,12 @@ Commands:
 - Local (http://localhost:3012): `npm start`
 - Testing: `npm test`
 - Deployment: `npm run deploy`
-- End 2 end testing (assumes application running locally): `npm run e2e`
+- End 2 end testing (assumes application running locally): `npm run e2e` (also note that mocha needs to be locally installed)
 - Count lines of js code: `find src/ -name '*.js' | xargs wc -l`
 
 Application structure:
 
-```
+```dir
 src/
   index.js      # Application entry point
   App.js        # Application booststrapping and routing
