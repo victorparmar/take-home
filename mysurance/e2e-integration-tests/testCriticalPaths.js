@@ -83,7 +83,9 @@ describe('Critical paths:', () => {
 
     for (let i = length - 1; i >= 1; --i) {
       $rows = await getRows();
-      $rows[i].click();
+      // https://github.com/mozilla/geckodriver/issues/1228
+      const $columns = await $rows[i].findElements(By.tagName('td'));
+      $columns[i].click(); 
       await deleteInsurance();
     }
     
