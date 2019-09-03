@@ -1,15 +1,17 @@
 {
-  "main.css": "/take-home/mysurance/static/css/main.0aa22d47.chunk.css",
-  "main.js": "/take-home/mysurance/static/js/main.d144d7e8.chunk.js",
-  "main.js.map": "/take-home/mysurance/static/js/main.d144d7e8.chunk.js.map",
-  "static/js/1.6107c6ab.chunk.js": "/take-home/mysurance/static/js/1.6107c6ab.chunk.js",
-  "static/js/1.6107c6ab.chunk.js.map": "/take-home/mysurance/static/js/1.6107c6ab.chunk.js.map",
-  "runtime~main.js": "/take-home/mysurance/static/js/runtime~main.24f67525.js",
-  "runtime~main.js.map": "/take-home/mysurance/static/js/runtime~main.24f67525.js.map",
-  "static/css/main.0aa22d47.chunk.css.map": "/take-home/mysurance/static/css/main.0aa22d47.chunk.css.map",
-  "static/media/funny-car-auto-insurance-quote.png": "/take-home/mysurance/static/media/funny-car-auto-insurance-quote.f730b603.png",
-  "static/media/insurance-coverage.jpg": "/take-home/mysurance/static/media/insurance-coverage.a2e88028.jpg",
-  "index.html": "/take-home/mysurance/index.html",
-  "precache-manifest.24284050670b479ecc5885fe673db2c2.js": "/take-home/mysurance/precache-manifest.24284050670b479ecc5885fe673db2c2.js",
-  "service-worker.js": "/take-home/mysurance/service-worker.js"
+  "files": {
+    "main.css": "/take-home/mysurance/static/css/main.bc4e7fdf.chunk.css",
+    "main.js": "/take-home/mysurance/static/js/main.c6d97623.chunk.js",
+    "main.js.map": "/take-home/mysurance/static/js/main.c6d97623.chunk.js.map",
+    "runtime~main.js": "/take-home/mysurance/static/js/runtime~main.35892753.js",
+    "runtime~main.js.map": "/take-home/mysurance/static/js/runtime~main.35892753.js.map",
+    "static/js/2.57dd57e1.chunk.js": "/take-home/mysurance/static/js/2.57dd57e1.chunk.js",
+    "static/js/2.57dd57e1.chunk.js.map": "/take-home/mysurance/static/js/2.57dd57e1.chunk.js.map",
+    "index.html": "/take-home/mysurance/index.html",
+    "precache-manifest.82b5bdfa9d55b182be640586fff94cf7.js": "/take-home/mysurance/precache-manifest.82b5bdfa9d55b182be640586fff94cf7.js",
+    "service-worker.js": "/take-home/mysurance/service-worker.js",
+    "static/css/main.bc4e7fdf.chunk.css.map": "/take-home/mysurance/static/css/main.bc4e7fdf.chunk.css.map",
+    "static/media/funny-car-auto-insurance-quote.png": "/take-home/mysurance/static/media/funny-car-auto-insurance-quote.f730b603.png",
+    "static/media/insurance-coverage.jpg": "/take-home/mysurance/static/media/insurance-coverage.a2e88028.jpg"
+  }
 }
