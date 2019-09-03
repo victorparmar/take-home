@@ -9,12 +9,13 @@
   "author": "Victor Parmar",
   "license": "MIT",
   "dependencies": {
-    "chance": "1.0.16",
-    "moment": "2.22.2",
+    "chance": "1.1.0",
+    "moment": "2.24.0",
     "receipt": "1.4.0"
   },
   "devDependencies": {
-    "chai": "4.2.0"
+    "chai": "4.2.0",
+    "mocha": "6.2.0"
   },
   "engines": {
     "node": "6.9.5"
